@@ -1,7 +1,7 @@
 # mylinks
 
 
-***** OPEN SOURCE code for managing your profile links of all social media. On very simple HTML and CSS based. *****
+***** OPEN SOURCE code for managing your profile links of all social media on a very simple HTML and CSS based webpage. *****
 
 Contact Me on : 
     GitHub : ( @thoda bewakoof ) https://github.com/thodabewakoof
@@ -11,12 +11,22 @@ Contact Me on :
     Behance : ( @thodabewakoof ) https://www.behance.net/thodabewakoof
     Youtube : ( thoda.bewakoof ) https://www.youtube.com/channel/UC9vu90IZVBk4NLnS50WHmpg 
 
+*******************************************************************
+    How to host this page for free and make it a webpage.........
+
+    Use VERCEL or GitHub pages to host your website for free.. 
+
+    1. Log In with GitHub account on vercel and just Publish your repository.
+
+    Learn how to Install and configure Github :  https://www.youtube.com/watch?v=J_Clau1bYco
+    Push code to GitHub : https://www.youtube.com/watch?v=wrb7Gge9yoE
  ---------------------------------------------------------------------------------------
 Since I've made this for everyone I'm gonna write the 
 instructions as if you know avery little of HTML and CSS.
 
 Every link , name and photo has a class associated with it in the HTML document 
 and those classes give their elemnet styles.
+
 
 ******************************************************************************
                          -------------------->> Change the Background Photo of whole page :  <<--------------------
