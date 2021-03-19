@@ -1,7 +1,17 @@
 # mylinks
 
+
 ***** OPEN SOURCE code for managing your profile links of all social media. On very simple HTML and CSS based. *****
 
+Contact Me on : 
+    GitHub : ( @thoda bewakoof ) https://github.com/thodabewakoof
+    Instagram : ( @thoda.bewakoof ) https://www.instagram.com/thoda.bewakoof
+    Twitter : ( @Thoda_Bewakoof ) https://www.instagram.com/Thoda_Bewakoof
+    Twitter : ( @ThodaBewakoof ) https://www.instagram.com/ThodaBewakoof
+    Behance : ( @thodabewakoof ) https://www.behance.net/thodabewakoof
+    Youtube : ( thoda.bewakoof ) https://www.youtube.com/channel/UC9vu90IZVBk4NLnS50WHmpg 
+
+ ---------------------------------------------------------------------------------------
 Since I've made this for everyone I'm gonna write the 
 instructions as if you know avery little of HTML and CSS.
 
