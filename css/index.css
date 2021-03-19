@@ -14,14 +14,14 @@ a:link , a:visited , a:hover , a:active{
 /* Background of the whole page */
 .container-fluid {
     background: linear-gradient(rgb(33, 0, 153) , rgb(145, 6, 173));
-    /* background: url("/images/sign-in-bg\ -\ Copy.png"); */
+    /* background: url("/images/background"); */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 
-/* Color of top Bar )profile photo and name */
+/* Color of top Bar (profile photo and name) */
 .top-profile {
     /* background-color: rgb(0, 255, 170); */
 }
@@ -44,7 +44,7 @@ a:link , a:visited , a:hover , a:active{
 .picture {
     height: 5rem;
     width: 5rem;
-    background-image: url("/images/sign-in-bg\ -\ Copy.png");
+    background-image: url("/images/profilepicture.png");
     background-position: center;
     background-size: cover;
     background-repeat: repeat-y;
@@ -54,16 +54,16 @@ a:link , a:visited , a:hover , a:active{
 /* Color of Link Buttons */
 
 .btn {
-    border-top-right-radius: 2rem;
-    border-bottom-left-radius: 2rem;
-    border-bottom: 0.2rem solid rgb(0, 255, 170);
-    border-top: 0.2rem solid rgb(0, 255, 170);
-    /* color: white !important; */
-    /* background: rgb(0, 255, 170); */
+    border-radius: 0.5rem;
+    border: 0.2rem solid rgb(0, 255, 170);
+    color: black !important;
+    background: white;
 }
 
 /* Color of Link Buttons while hovering*/
 .btn:hover {
+    transition: 0.6s;
+    border-radius: 2rem;
     background: rgb(6, 201, 136);
 }
 
